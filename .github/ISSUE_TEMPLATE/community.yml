@@ -1,0 +1,30 @@
+name: Suggest or correct a community / 补充或纠错
+description: Suggest a city community or correct an existing entry / 补充城市社区或修正现有记录
+title: "[Community] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Country and city / 国家与城市
+    validations:
+      required: true
+  - type: input
+    id: official-url
+    attributes:
+      label: Official community URL / 官方入口
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and useful details / 依据与具体价值
+      description: Include format, audience, sources and any coming-soon or access limitations.
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Your relationship / 关联披露
+      description: Organiser, member, maintainer, or none / 组织者、成员、维护者或无关联
+    validations:
+      required: true

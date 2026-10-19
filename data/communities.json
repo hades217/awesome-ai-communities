@@ -1,0 +1,719 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-19",
+  "countries": [
+    {
+      "slug": "australia",
+      "name": {
+        "en": "Australia",
+        "zh": "澳大利亚"
+      }
+    },
+    {
+      "slug": "china",
+      "name": {
+        "en": "China",
+        "zh": "中国"
+      }
+    },
+    {
+      "slug": "malaysia",
+      "name": {
+        "en": "Malaysia",
+        "zh": "马来西亚"
+      }
+    },
+    {
+      "slug": "singapore",
+      "name": {
+        "en": "Singapore",
+        "zh": "新加坡"
+      }
+    },
+    {
+      "slug": "united-kingdom",
+      "name": {
+        "en": "United Kingdom",
+        "zh": "英国"
+      }
+    },
+    {
+      "slug": "united-states",
+      "name": {
+        "en": "United States",
+        "zh": "美国"
+      }
+    }
+  ],
+  "cities": [
+    {
+      "slug": "sydney",
+      "name": {
+        "en": "Sydney",
+        "zh": "悉尼"
+      },
+      "country": "australia",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "slug": "melbourne",
+      "name": {
+        "en": "Melbourne",
+        "zh": "墨尔本"
+      },
+      "country": "australia",
+      "timezone": "Australia/Melbourne"
+    },
+    {
+      "slug": "brisbane",
+      "name": {
+        "en": "Brisbane",
+        "zh": "布里斯班"
+      },
+      "country": "australia",
+      "timezone": "Australia/Brisbane"
+    },
+    {
+      "slug": "perth",
+      "name": {
+        "en": "Perth",
+        "zh": "珀斯"
+      },
+      "country": "australia",
+      "timezone": "Australia/Perth"
+    },
+    {
+      "slug": "adelaide",
+      "name": {
+        "en": "Adelaide",
+        "zh": "阿德莱德"
+      },
+      "country": "australia",
+      "timezone": "Australia/Adelaide"
+    },
+    {
+      "slug": "chengdu",
+      "name": {
+        "en": "Chengdu",
+        "zh": "成都"
+      },
+      "country": "china",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "kuala-lumpur",
+      "name": {
+        "en": "Kuala Lumpur",
+        "zh": "吉隆坡"
+      },
+      "country": "malaysia",
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "slug": "singapore",
+      "name": {
+        "en": "Singapore",
+        "zh": "新加坡"
+      },
+      "country": "singapore",
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "slug": "london",
+      "name": {
+        "en": "London",
+        "zh": "伦敦"
+      },
+      "country": "united-kingdom",
+      "timezone": "Europe/London"
+    },
+    {
+      "slug": "los-angeles",
+      "name": {
+        "en": "Los Angeles",
+        "zh": "洛杉矶"
+      },
+      "country": "united-states",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "slug": "new-york",
+      "name": {
+        "en": "New York City",
+        "zh": "纽约"
+      },
+      "country": "united-states",
+      "timezone": "America/New_York"
+    },
+    {
+      "slug": "seattle",
+      "name": {
+        "en": "Seattle",
+        "zh": "西雅图"
+      },
+      "country": "united-states",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "slug": "san-francisco",
+      "name": {
+        "en": "San Francisco",
+        "zh": "旧金山"
+      },
+      "country": "united-states",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "communities": [
+    {
+      "id": "ai-circle-sydney",
+      "city": "sydney",
+      "country": "australia",
+      "name": {
+        "en": "JR Academy AI Circle Sydney",
+        "zh": "匠人悉尼 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/sydney/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/sydney/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-melbourne",
+      "city": "melbourne",
+      "country": "australia",
+      "name": {
+        "en": "JR Academy AI Circle Melbourne",
+        "zh": "匠人墨尔本 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/melbourne/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/melbourne/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-brisbane",
+      "city": "brisbane",
+      "country": "australia",
+      "name": {
+        "en": "JR Academy AI Circle Brisbane",
+        "zh": "匠人布里斯班 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/brisbane/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/brisbane/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-perth",
+      "city": "perth",
+      "country": "australia",
+      "name": {
+        "en": "JR Academy AI Circle Perth",
+        "zh": "匠人珀斯 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/perth/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/perth/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-adelaide",
+      "city": "adelaide",
+      "country": "australia",
+      "name": {
+        "en": "JR Academy AI Circle Adelaide",
+        "zh": "匠人阿德莱德 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/adelaide/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/adelaide/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-chengdu",
+      "city": "chengdu",
+      "country": "china",
+      "name": {
+        "en": "JR Academy AI Circle Chengdu",
+        "zh": "匠人成都 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/chengdu/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/chengdu/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-kuala-lumpur",
+      "city": "kuala-lumpur",
+      "country": "malaysia",
+      "name": {
+        "en": "JR Academy AI Circle Kuala Lumpur",
+        "zh": "匠人吉隆坡 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/kuala-lumpur/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/kuala-lumpur/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-singapore",
+      "city": "singapore",
+      "country": "singapore",
+      "name": {
+        "en": "JR Academy AI Circle Singapore",
+        "zh": "匠人新加坡 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/singapore/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "listed",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/singapore/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-london",
+      "city": "london",
+      "country": "united-kingdom",
+      "name": {
+        "en": "JR Academy AI Circle London",
+        "zh": "匠人伦敦 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/london/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "coming-soon",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/london/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-los-angeles",
+      "city": "los-angeles",
+      "country": "united-states",
+      "name": {
+        "en": "JR Academy AI Circle Los Angeles",
+        "zh": "匠人洛杉矶 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/los-angeles/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "coming-soon",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/los-angeles/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-new-york",
+      "city": "new-york",
+      "country": "united-states",
+      "name": {
+        "en": "JR Academy AI Circle New York City",
+        "zh": "匠人纽约 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/new-york/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "coming-soon",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/new-york/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-seattle",
+      "city": "seattle",
+      "country": "united-states",
+      "name": {
+        "en": "JR Academy AI Circle Seattle",
+        "zh": "匠人西雅图 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/seattle/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "coming-soon",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/seattle/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-circle-san-francisco",
+      "city": "san-francisco",
+      "country": "united-states",
+      "name": {
+        "en": "JR Academy AI Circle San Francisco",
+        "zh": "匠人旧金山 AI圈"
+      },
+      "url": "https://jracademy.ai/ai-circle/city/san-francisco/",
+      "type": "networking",
+      "description": {
+        "en": "Local AI networking and project exchange.",
+        "zh": "本地 AI 交流与项目分享。"
+      },
+      "status": "coming-soon",
+      "affiliation": "maintainer",
+      "sources": [
+        "https://jracademy.ai/ai-circle/city/san-francisco/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-tinkerers-sydney",
+      "city": "sydney",
+      "country": "australia",
+      "name": {
+        "en": "AI Tinkerers Sydney",
+        "zh": "AI Tinkerers 悉尼"
+      },
+      "url": "https://sydney.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://sydney.aitinkerers.org/organizers"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "ai-tinkerers-singapore",
+      "city": "singapore",
+      "country": "singapore",
+      "name": {
+        "en": "AI Tinkerers Singapore",
+        "zh": "AI Tinkerers 新加坡"
+      },
+      "url": "https://singapore.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://singapore.aitinkerers.org/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "ai-tinkerers-london",
+      "city": "london",
+      "country": "united-kingdom",
+      "name": {
+        "en": "AI Tinkerers London",
+        "zh": "AI Tinkerers 伦敦"
+      },
+      "url": "https://london.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://london.aitinkerers.org/?tab=home"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "ai-tinkerers-new-york",
+      "city": "new-york",
+      "country": "united-states",
+      "name": {
+        "en": "AI Tinkerers New York City",
+        "zh": "AI Tinkerers 纽约"
+      },
+      "url": "https://nyc.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://nyc.aitinkerers.org/?tab=home"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "ai-tinkerers-seattle",
+      "city": "seattle",
+      "country": "united-states",
+      "name": {
+        "en": "AI Tinkerers Seattle",
+        "zh": "AI Tinkerers 西雅图"
+      },
+      "url": "https://seattle.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://seattle.aitinkerers.org/?tab=home"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "ai-tinkerers-san-francisco",
+      "city": "san-francisco",
+      "country": "united-states",
+      "name": {
+        "en": "AI Tinkerers San Francisco",
+        "zh": "AI Tinkerers 旧金山"
+      },
+      "url": "https://sf.aitinkerers.org/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Code-first demos for people building AI systems.",
+        "zh": "面向 AI 开发者的代码与项目 Demo 交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://sf.aitinkerers.org/p/ai-hyperengineering-claude-maxxing-background-agents-ci-cd"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-search-index"
+    },
+    {
+      "id": "build-club-sydney",
+      "city": "sydney",
+      "country": "australia",
+      "name": {
+        "en": "Build Club",
+        "zh": "Build Club"
+      },
+      "url": "https://buildclub.ai/",
+      "type": "learning-building",
+      "description": {
+        "en": "AI learning, collaborative building and community events.",
+        "zh": "AI 学习、协作实践与社区活动。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://campus.buildclub.ai/events/019c8c6a-fd34-75f5-b309-34f96e2087c2"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "builders-after-dark-melbourne",
+      "city": "melbourne",
+      "country": "australia",
+      "name": {
+        "en": "Builders After Dark Melbourne",
+        "zh": "Builders After Dark 墨尔本"
+      },
+      "url": "https://www.meetup.com/en-au/builders-after-dark/",
+      "type": "technical-demos",
+      "description": {
+        "en": "Project lightning talks, including AI and broader technology.",
+        "zh": "项目闪电分享，涵盖 AI 及其他技术方向。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://www.meetup.com/en-au/builders-after-dark/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "malaysian-ai",
+      "city": "kuala-lumpur",
+      "country": "malaysia",
+      "name": {
+        "en": "Malaysian AI",
+        "zh": "Malaysian AI"
+      },
+      "url": "https://www.malaysian.ai/",
+      "type": "learning-building",
+      "description": {
+        "en": "AI community hub with workshops and an event calendar.",
+        "zh": "提供工作坊与活动日历的 AI 社区入口。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://www.malaysian.ai/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-after-hours-kl",
+      "city": "kuala-lumpur",
+      "country": "malaysia",
+      "name": {
+        "en": "AI After Hours KL",
+        "zh": "AI After Hours 吉隆坡"
+      },
+      "url": "https://www.aiafterhours.app/",
+      "type": "learning-building",
+      "description": {
+        "en": "Beginner-friendly, hands-on AI learning after work.",
+        "zh": "适合初学者的下班后 AI 实践交流。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://www.malaysian.ai/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "vibe-coding-london",
+      "city": "london",
+      "country": "united-kingdom",
+      "name": {
+        "en": "Vibe Coding Collective London",
+        "zh": "Vibe Coding Collective 伦敦"
+      },
+      "url": "https://www.meetup.com/vibe-coders-london/",
+      "type": "learning-building",
+      "description": {
+        "en": "Social coding sessions using AI development tools.",
+        "zh": "使用 AI 开发工具的社交编程活动。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://www.vibecoders.global/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    },
+    {
+      "id": "ai-la",
+      "city": "los-angeles",
+      "country": "united-states",
+      "name": {
+        "en": "AI LA",
+        "zh": "AI LA 洛杉矶"
+      },
+      "url": "https://www.joinai.la/",
+      "type": "applied-ai",
+      "description": {
+        "en": "AI education, discussion and community events in Greater LA.",
+        "zh": "大洛杉矶地区的 AI 教育、讨论与社区活动。"
+      },
+      "status": "listed",
+      "affiliation": "independent",
+      "sources": [
+        "https://www.joinai.la/"
+      ],
+      "reviewed_on": "2026-10-19",
+      "review_method": "official-page"
+    }
+  ]
+}

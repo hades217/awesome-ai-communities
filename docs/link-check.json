@@ -1,0 +1,175 @@
+{
+  "checked_on": "2026-10-19",
+  "method": "Public HTTP GET; no login, registration or provider/model execution",
+  "results": [
+    {
+      "id": "ai-circle-sydney",
+      "url": "https://jracademy.ai/ai-circle/city/sydney/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/sydney/",
+      "title": "悉尼 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-melbourne",
+      "url": "https://jracademy.ai/ai-circle/city/melbourne/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/melbourne/",
+      "title": "墨尔本 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-brisbane",
+      "url": "https://jracademy.ai/ai-circle/city/brisbane/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/brisbane/",
+      "title": "布里斯班 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-perth",
+      "url": "https://jracademy.ai/ai-circle/city/perth/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/perth/",
+      "title": "珀斯 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-adelaide",
+      "url": "https://jracademy.ai/ai-circle/city/adelaide/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/adelaide/",
+      "title": "阿德莱德 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-chengdu",
+      "url": "https://jracademy.ai/ai-circle/city/chengdu/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/chengdu/",
+      "title": "成都 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-kuala-lumpur",
+      "url": "https://jracademy.ai/ai-circle/city/kuala-lumpur/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/kuala-lumpur/",
+      "title": "吉隆坡 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-singapore",
+      "url": "https://jracademy.ai/ai-circle/city/singapore/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/singapore/",
+      "title": "新加坡 AI圈活动与报名 · AI圈"
+    },
+    {
+      "id": "ai-circle-london",
+      "url": "https://jracademy.ai/ai-circle/city/london/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/london/",
+      "title": "伦敦 AI圈 · Coming Soon · AI圈"
+    },
+    {
+      "id": "ai-circle-los-angeles",
+      "url": "https://jracademy.ai/ai-circle/city/los-angeles/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/los-angeles/",
+      "title": "洛杉矶 AI圈 · Coming Soon · AI圈"
+    },
+    {
+      "id": "ai-circle-new-york",
+      "url": "https://jracademy.ai/ai-circle/city/new-york/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/new-york/",
+      "title": "纽约 AI圈 · Coming Soon · AI圈"
+    },
+    {
+      "id": "ai-circle-seattle",
+      "url": "https://jracademy.ai/ai-circle/city/seattle/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/seattle/",
+      "title": "西雅图 AI圈 · Coming Soon · AI圈"
+    },
+    {
+      "id": "ai-circle-san-francisco",
+      "url": "https://jracademy.ai/ai-circle/city/san-francisco/",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/ai-circle/city/san-francisco/",
+      "title": "旧金山 AI圈 · Coming Soon · AI圈"
+    },
+    {
+      "id": "ai-tinkerers-sydney",
+      "url": "https://sydney.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ai-tinkerers-singapore",
+      "url": "https://singapore.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ai-tinkerers-london",
+      "url": "https://london.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ai-tinkerers-new-york",
+      "url": "https://nyc.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ai-tinkerers-seattle",
+      "url": "https://seattle.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ai-tinkerers-san-francisco",
+      "url": "https://sf.aitinkerers.org/",
+      "http_status": 403,
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "build-club-sydney",
+      "url": "https://buildclub.ai/",
+      "http_status": 200,
+      "final_url": "https://buildclub.ai/",
+      "title": "Build Club"
+    },
+    {
+      "id": "builders-after-dark-melbourne",
+      "url": "https://www.meetup.com/en-au/builders-after-dark/",
+      "http_status": 200,
+      "final_url": "https://www.meetup.com/en-au/builders-after-dark/",
+      "title": "Bending Spoons"
+    },
+    {
+      "id": "malaysian-ai",
+      "url": "https://www.malaysian.ai/",
+      "http_status": 200,
+      "final_url": "https://www.malaysian.ai/",
+      "title": "Malaysian AI | Malaysia AI Community &amp; Events"
+    },
+    {
+      "id": "ai-after-hours-kl",
+      "url": "https://www.aiafterhours.app/",
+      "http_status": 200,
+      "final_url": "https://www.aiafterhours.app/",
+      "title": "AI After Hours — Live AI workshops & community"
+    },
+    {
+      "id": "vibe-coding-london",
+      "url": "https://www.meetup.com/vibe-coders-london/",
+      "http_status": 200,
+      "final_url": "https://www.meetup.com/vibe-coders-london/",
+      "title": "Bending Spoons"
+    },
+    {
+      "id": "ai-la",
+      "url": "https://www.joinai.la/",
+      "http_status": 200,
+      "final_url": "https://www.joinai.la/",
+      "title": "AI LA Community"
+    }
+  ]
+}
