@@ -49,7 +49,11 @@
 
 这是经过筛选的初版目录，不是全球穷尽数据库或实时活动流。国家详情页附来源、核验方式、日期及关联标识。部分官方站点限制脚本访问，搜索索引依据与直接查看页面分别标注。不公开私人群邀请或联系人名单。
 
-[核验记录](docs/REVIEW.md) · [贡献指南](CONTRIBUTING.md) · [结构化数据](data/communities.json) · [相关 AI 资源](https://github.com/hades217/awesome-ai)
+[核验记录](docs/REVIEW.md) · [贡献指南](CONTRIBUTING.md) · [结构化数据](data/communities.json)
+
+## 相关资源目录
+
+- [Awesome AI 中文版](https://github.com/hades217/awesome-ai/blob/master/README.zh.md) — 更广泛的 AI 资源清单，涵盖大模型、编程工具、课程与社区。
 
 ## 参与维护
 

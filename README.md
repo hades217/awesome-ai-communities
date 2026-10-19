@@ -49,7 +49,11 @@ The following AI Circle city pages explicitly say Coming Soon. They are included
 
 This is a curated starter directory, not an exhaustive global database or a live event feed. Country guides include source links, review methods, dates and affiliation labels. Some official sites block scripted access; search-index evidence is labelled separately from a direct page read. We do not publish private chat invitations or contact lists.
 
-[Review notes](docs/REVIEW.md) · [Contributing](CONTRIBUTING.md) · [Machine-readable data](data/communities.json) · [Related AI resources](https://github.com/hades217/awesome-ai)
+[Review notes](docs/REVIEW.md) · [Contributing](CONTRIBUTING.md) · [Machine-readable data](data/communities.json)
+
+## Related directories
+
+- [Awesome AI](https://github.com/hades217/awesome-ai) — the broader AI resource list, including models, coding tools, courses and communities.
 
 ## Contribute
 
